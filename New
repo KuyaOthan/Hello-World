@@ -1,0 +1,18 @@
+<html>
+  <style>
+    
+    Header h1, h2 {
+      font-family: Aerial;
+      flex: 100px;
+       }
+    
+    .blue-background {
+       color: blue;
+       }
+       
+  </style>
+
+<div class="blue-background">
+  <h1> this is a test for my first work.</h1>
+  <h2> As you can see im a new in this platform.</h2>
+  </div>
